@@ -70,8 +70,7 @@
 
 - GitHub: https://github.com/amrita-singh8
 - LinkedIn: https://www.linkedin.com/in/amrita-singh-683a24283/
-- 
-
+  
 ---
 
 <p align="center">

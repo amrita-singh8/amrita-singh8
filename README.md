@@ -11,7 +11,6 @@
 
 - 🌱 Currently learning **Java, DSA, React & Full Stack Development**
 - 💻 Building projects to improve my development skills
-- 🚀 Creator of **VBSPU Notes & PYQs**
 - 📚 Passionate about coding and problem solving
 - 🎯 Goal: Become a Software Engineer
 
@@ -45,14 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita-singh8&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amrita-singh8&theme=algolia&row=1&column=7" />
 </p>
 
 ---

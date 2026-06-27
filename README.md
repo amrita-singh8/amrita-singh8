@@ -1,84 +1,120 @@
+```md
 <h1 align="center">Hi 👋, I'm Amrita Singh</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | Full Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0B61FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+in+Progress;Building+Projects+and+Learning+Everyday;Java+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0B61FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Aspiring+Software+Engineer;Full+Stack+Developer+in+Progress;Java+%7C+DSA+%7C+React+%7C+JavaScript;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amrita-singh8&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/amrita-singh8?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/amrita-singh8?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👩‍💻 About Me
 
 - 🌱 Currently learning **Java, DSA, React & Full Stack Development**
-- 💻 Building projects to improve my development skills
-- 📚 Passionate about coding and problem solving
-- 🎯 Goal: Become a Software Engineer
+- 💻 Building real-world projects
+- 🚀 Open Source Enthusiast
+- 📚 Love Problem Solving
+- 🎯 Goal: Software Engineer @ Top Tech Company
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 💻 Languages
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrita-singh8&show_icons=true&theme=tokyonight" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita-singh8&theme=tokyonight" />
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-## 🚀 Current Focus
+# 📊 GitHub Stats
 
-- Data Structures & Algorithms
-- Full Stack Web Development
-- Open Source Contributions
-- Building Useful Projects
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amrita-singh8&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrita-singh8&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita-singh8&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🏅 GitHub Trophies
 
-- GitHub: https://github.com/amrita-singh8
-- LinkedIn: https://www.linkedin.com/in/amrita-singh-683a24283/
-  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amrita-singh8&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="./images/quickdraw.png" width="220"/>
+</p>
+
+<p align="center">
+⚡ Earned the <b>Quickdraw</b> GitHub Achievement.
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amrita-singh8&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- 📚 Data Structures & Algorithms
+- 🌐 Full Stack Development
+- 🤝 Open Source Contributions
+- 💡 Building Useful Projects
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="https://github.com/amrita-singh8">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amrita-singh-683a24283/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+
+### ⭐ Thanks for Visiting My Profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B61FF,100:6C63FF&height=120&section=footer"/>
+
 </p>
-
-<!--
-**amrita-singh8/amrita-singh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```

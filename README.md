@@ -58,10 +58,29 @@
 ---
 
 ## 📫 Connect With Me
+<p>
 
-- GitHub: https://github.com/amrita-singh8
-- LinkedIn: https://www.linkedin.com/in/amrita-singh-683a24283/
-  
+<a href="https://github.com/amrita-singh8">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/amrita-singh-683a24283/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:amritasing086@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+</p>
+
 ---
 
 <p align="center">

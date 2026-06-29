@@ -77,7 +77,7 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=amrita-singh8&color=blue)
 
 </p>
 

@@ -75,7 +75,7 @@
 </a>
 
 <a href="https://x.com/amritasingh098a">
-<img src="https://skillicons.dev/icons?i=x" />
+<img src="https://skillicons.dev/icons?i=X" />
 </a>
 
 </p>

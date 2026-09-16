@@ -74,6 +74,10 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
+<a href="https://x.com/amritasingh098a">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
 

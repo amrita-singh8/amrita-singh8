@@ -32,7 +32,7 @@
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,npm" />
 </p>
 
 

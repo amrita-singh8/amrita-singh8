@@ -30,6 +30,12 @@
 </p>
 
 
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=node.js,express.js,mongodb" />
+</p>
+
+
 ### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,npm" />

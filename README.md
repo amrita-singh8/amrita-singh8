@@ -32,7 +32,7 @@
 
 ### Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=node.js,express.js,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 

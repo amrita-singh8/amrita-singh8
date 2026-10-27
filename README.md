@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Software Engineer | Full Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0B61FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+in+Progress;Building+Projects+and+Learning+Everyday;Java+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0B61FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Building+Projects+and+Learning+Everyday;Java+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+React" alt="Typing SVG" />
 </p>
 
 ---

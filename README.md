@@ -26,13 +26,13 @@
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next" />
 </p>
 
 
 ### Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,kubernetes" />
 </p>
 
 

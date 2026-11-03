@@ -26,7 +26,7 @@
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next" />
 </p>
 
 

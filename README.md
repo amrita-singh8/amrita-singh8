@@ -38,7 +38,7 @@
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,netlify,vercel,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,netlify,vercel,npm,postman" />
 
 <img src="https://cdn.simpleicons.org/googlesearchconsole" height="48" alt="Google Search Console" />
 </p>
